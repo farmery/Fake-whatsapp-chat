@@ -1,13 +1,13 @@
 import 'package:bubble/bubble.dart';
 import 'package:dash_chat/dash_chat.dart';
-import 'package:expensive_prank/models/chat.dart';
-import 'package:expensive_prank/models/message.dart';
-import 'package:expensive_prank/models/user.dart';
+import 'package:fake_whatsapp_chat/models/chat.dart';
+import 'package:fake_whatsapp_chat/models/message.dart';
+import 'package:fake_whatsapp_chat/models/user.dart';
+import 'package:fake_whatsapp_chat/services/login_notifier.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
 import 'package:provider/provider.dart';
-import 'package:expensive_prank/services/login_notifier.dart';
 import 'whatsapp_conversation_viewmodel.dart';
 
 class WhatsappConversationView extends StatefulWidget {

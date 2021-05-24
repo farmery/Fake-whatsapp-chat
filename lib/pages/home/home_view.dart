@@ -1,8 +1,9 @@
-import 'package:expensive_prank/pages/home/calls/calls.dart';
-import 'package:expensive_prank/pages/home/chats/chats.dart';
-import 'package:expensive_prank/pages/home/status/status.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
+
+import 'calls/calls.dart';
+import 'chats/chats.dart';
+import 'status/status.dart';
 
 class HomeView extends StatefulWidget {
   @override

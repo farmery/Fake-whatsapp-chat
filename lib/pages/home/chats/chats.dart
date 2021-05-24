@@ -1,5 +1,5 @@
-import 'package:expensive_prank/pages/conversation/whatsapp_conversation_view.dart';
-import 'package:expensive_prank/pages/conversation/whatsapp_conversation_viewmodel.dart';
+import 'package:fake_whatsapp_chat/pages/conversation/whatsapp_conversation_view.dart';
+import 'package:fake_whatsapp_chat/pages/conversation/whatsapp_conversation_viewmodel.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

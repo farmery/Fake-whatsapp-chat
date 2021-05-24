@@ -1,5 +1,5 @@
-import 'package:expensive_prank/models/user.dart';
-import 'package:expensive_prank/services/login_notifier.dart';
+import 'package:fake_whatsapp_chat/models/user.dart';
+import 'package:fake_whatsapp_chat/services/login_notifier.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

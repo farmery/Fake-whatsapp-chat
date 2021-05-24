@@ -1,5 +1,5 @@
-import 'package:expensive_prank/models/message.dart';
-import 'package:expensive_prank/models/user.dart';
+import 'package:fake_whatsapp_chat/models/message.dart';
+import 'package:fake_whatsapp_chat/models/user.dart';
 import 'package:flutter/cupertino.dart';
 
 class WhatsappConversationViewmodel with ChangeNotifier {

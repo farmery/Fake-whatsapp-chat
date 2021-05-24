@@ -1,9 +1,10 @@
-import 'package:expensive_prank/models/user.dart';
-import 'package:expensive_prank/pages/home/home_view.dart';
-import 'package:expensive_prank/pages/login.dart';
-import 'package:expensive_prank/services/login_notifier.dart';
+import 'package:fake_whatsapp_chat/models/user.dart';
+import 'package:fake_whatsapp_chat/pages/home/home_view.dart';
+import 'package:fake_whatsapp_chat/services/login_notifier.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+
+import 'login.dart';
 
 class Wrapper extends StatelessWidget {
   const Wrapper({Key key}) : super(key: key);

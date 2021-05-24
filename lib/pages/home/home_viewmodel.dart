@@ -1,4 +1,4 @@
-import 'package:expensive_prank/models/chat.dart';
+import 'package:fake_whatsapp_chat/models/chat.dart';
 import 'package:flutter/widgets.dart';
 
 class HomeViewmodel with ChangeNotifier {

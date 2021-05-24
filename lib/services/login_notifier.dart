@@ -1,4 +1,4 @@
-import 'package:expensive_prank/models/user.dart';
+import 'package:fake_whatsapp_chat/models/user.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
